@@ -1,32 +1,32 @@
-# _{cookie}_
+# Cookie
 
-#### _{cookie recipe website}, {7/31/2018}_
+#### Cookie recipe website, 7/31/2018
 
-#### By _**{Michael Harmon and Addie Sanchez}**_
+#### By **Michael Harmon and Addie Sanchez**
 
 ## Description
 
-_{This is a website created using HTML.  It describes how to make chocolate chip cookies.}_
+This is a website created using HTML.  It describes how to make chocolate chip cookies.
 
 ## Setup/Installation Requirements
 
-* _Open HTML file to view website_
+* Open HTML file to view website
 
 
 ## Known Bugs
 
-_{No known bugs}_
+No known bugs.
 
 ## Support and contact details
 
-_{Please email dearmichaelmeow@gmail.com with any issues or questions.}_
+Please email dearmichaelmeow@gmail.com with any issues or questions.
 
 ## Technologies Used
 
-_{HTML}_
+HTML.
 
 ### License
 
-*{GPL}*
+This software is licensed under the GPL license.
 
-Copyright (c) 2016 **_{Michael Harmon and Addie Sanchez}_**
+Copyright (c) 2016 **Michael Harmon and Addie Sanchez**
